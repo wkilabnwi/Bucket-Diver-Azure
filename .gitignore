@@ -1,0 +1,31 @@
+# Binaries
+bin/
+dist/
+Bucket-Dive
+bucket-dive
+*.exe
+*.test
+*.out
+
+# Go deps 
+vendor/
+
+# Local Environment & Keys
+.env
+*.env
+.env.local
+credentials
+*.pem
+*.key
+
+# Test Results / Reports
+findings.json
+scan_results.txt
+results/
+engine_test.go
+
+# Editor garbage
+.idea/
+.vscode/
+*.swp
+.DS_Store
