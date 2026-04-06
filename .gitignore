@@ -1,8 +1,6 @@
 # Binaries
 bin/
 dist/
-Bucket-Dive
-bucket-dive
 *.exe
 *.test
 *.out
